@@ -1,0 +1,79 @@
+.Danza h1{
+	text-align: center;
+	font-family:latolight;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	color: #201A53;	
+}
+.menu1 li{
+	padding-left: 40px;
+	padding-right: 40px;
+	display: inline-table;
+	position: relative;
+	left: 25em;	
+	font-family: latolight;
+	color: #201A53;	
+}
+#zoom{
+	width: 1280px;
+	height: 350px;
+	padding-bottom: 10px;
+	padding-right: 5px;
+	padding-left: 5px;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+.Descripcion{
+	position: relative;
+	bottom: 20em;
+	font-family: latolight;
+	font-size: 14px;
+	color: #DCD6D6;
+	left: 20px;
+	padding-top: 10px;
+	padding-bottom: 50px;
+	padding-left: 30px;
+}
+.Descripcion h1{
+	font-size: 60px;
+	font-family: latoligth;
+	bottom: 20em;
+}
+.boton{
+	background-color: #030528;
+	color: #DCD6D6;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+.fondo{
+	width: 1280px;
+	height: 350px;
+	position: relative;
+	right: 10em;
+	bottom: 18em;
+	margin-left: 0;
+}
+
+.Descripcion1{
+	position: relative;
+	bottom: 40em;
+	left: 10em;
+	padding-top: 30px;
+	padding-bottom: 20px;
+}
+.logo1{
+	position: relative;
+	left: 15em;
+	width: 10em;
+}
+.boton2{
+	background-color: #3D509A;
+	color: #DCD6D6;
+	padding-left: 100px;
+	padding-right: 100px;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	border-radius: 10px;
+}
